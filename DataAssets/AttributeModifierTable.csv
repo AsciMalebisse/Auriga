@@ -1,0 +1,10 @@
+Stat,1,100
+MaxHealth,10,50
+CritChance,0.45,0.004545455
+CritDamageModifier,2,0.02
+AttackSpeed,0.42,0.004166667
+CastSpeed,0.42,0.004166667
+InstinctsModifier,0.25,0.0025
+SynthesisModifier,0.5,0.005
+ArmorModifier,0.5,0.005
+BarrierModifier,0.5,0.005
